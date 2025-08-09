@@ -12,7 +12,6 @@
 
 <details>
 <summary><strong>Table of contents</strong></summary>
-
 <!-- Begin ToC -->
 
 - [Quickstart](#quickstart)
